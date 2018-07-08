@@ -1,0 +1,48 @@
+body{
+    background-image: url('../../assets/img/background.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.title_welcome{
+    font-size: 72px;
+    color:whitesmoke;
+}
+
+.paraph_title{
+    font-size: 26px;
+    color:whitesmoke;
+}
+
+.btn_title_login{
+    border-radius: 0px !important;
+    margin-right: 10px !important;
+    width: 150px !important;
+    background-image:none !important;
+}
+
+.btn_title_register{
+    border-radius: 0px !important;
+    margin-right: 10px !important;
+    width: 150px !important;
+    background-color: #03A9F4 !important;
+    border-color:#03A9F4 !important;
+    background-image:none;
+}
+
+.myJumbotron{
+    margin-top: 180px !important;
+}
+
+#login_username,#login_password{
+    border-radius: 0px !important;
+}
+
+.btn_login{
+    border-radius: 0px !important;
+
+}
+
+.modal-content{
+    border-radius:0px !important;
+}

@@ -1,0 +1,28 @@
+.myButton{
+    border-radius: 0px;
+
+}
+
+.myTable{
+    text-align: center;
+}
+
+.User{
+    z-index:4;
+    position: relative;
+    margin-top: 30px;
+}
+
+.myButtonModal{
+    height: 34px !important;
+    width: 100px !important;
+    background-color:#337ab7 !important;
+    border-color:#337ab7 !important;
+    border-radius: 0px !important;
+    color:#fff !important;
+}
+
+.btnTable{
+    border-radius: 0px !important;
+    
+}
